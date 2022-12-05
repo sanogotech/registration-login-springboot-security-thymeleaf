@@ -10,3 +10,8 @@ registration-login-module using springboot, spring mvc, spring security and thym
 ##  @ Spring boot annotation Stereotypes
 
 ![Stereotypes spring boot](https://github.com/sanogotech/registration-login-springboot-security-thymeleaf/blob/master/docs/images/stereotypesSpringboot.jpg)
+
+## Run
+```
+mvn  clean  spring-boot:run"
+```
